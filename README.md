@@ -21,7 +21,7 @@ This repository contains the `Coffee_Sales_Data.xlsx` file, which was used to cr
 
 #### Dashboard In Excel:
 
-![image](https://github.com/user-attachments/assets/3495b0db-3f84-49b4-9b9a-15b6918bc2ed)
+![image](https://github.com/user-attachments/assets/ffecb3e6-5dff-4f4a-991d-5d2727fe2bec)
 
 
 
