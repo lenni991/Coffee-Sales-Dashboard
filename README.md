@@ -5,6 +5,14 @@ This repository contains the `OrdersData.xlsx` file, used to create an interacti
 
 The dataset contains approximately **1200 rows** per sheet (Orders, Customers, and Products).
 
+
+## Summary:
+
+- Developed an interactive Excel dashboard analyzing $45,134 in coffee sales across 3 countries, leveraging advanced Excel functions to clean and consolidate 1,000+ records from multiple sheets with 14 data points per transaction.
+- Created dynamic visualizations revealing 13% year-over-year growth (2019-2021), with United States generating 79% ($35,639) of total revenue and large packages (2.5kg) accounting for 53% ($23,786) of sales.
+- Implemented 4 interactive filters enabling granular analysis across time periods, product attributes (4 coffee types, 3 roast types), and customer segments, identifying that March and June sales were 105% higher than lowest-performing month (August).
+
+
 📁 **Project Files:**
 
 ```text
