@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+#  Excel-Based Coffee Sales Analytics
 
 ### Overview
 This repository contains the `OrdersData.xlsx` file, used to create an interactive dashboard for analyzing coffee sales data. The analysis was performed entirely in Excel, with data cleaning, consolidation, and visualization. The objective was to create a dashboard, allowing for easy filtering and exploration.
